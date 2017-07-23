@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+### Welcome to Naz's test website!
 
-You can use the [editor on GitHub](https://github.com/nzrn/nzrn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/nzrn/nzrn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files but it is not cared by naz.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-**Nazrin is a cool dude go to his [website](http://nazdomain.weebly.com/) to learn more of his awesomeness
+
+-*Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
